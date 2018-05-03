@@ -1,0 +1,10 @@
+C:\Users\Edélson\Lógica\CalcularCNPJ\obj\Debug\netcoreapp2.0\CalcularCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\Edélson\Lógica\CalcularCNPJ\obj\Debug\netcoreapp2.0\CalcularCNPJ.AssemblyInfoInputs.cache
+C:\Users\Edélson\Lógica\CalcularCNPJ\obj\Debug\netcoreapp2.0\CalcularCNPJ.AssemblyInfo.cs
+C:\Users\Edélson\Lógica\CalcularCNPJ\bin\Debug\netcoreapp2.0\CalcularCNPJ.deps.json
+C:\Users\Edélson\Lógica\CalcularCNPJ\bin\Debug\netcoreapp2.0\CalcularCNPJ.runtimeconfig.json
+C:\Users\Edélson\Lógica\CalcularCNPJ\bin\Debug\netcoreapp2.0\CalcularCNPJ.runtimeconfig.dev.json
+C:\Users\Edélson\Lógica\CalcularCNPJ\bin\Debug\netcoreapp2.0\CalcularCNPJ.dll
+C:\Users\Edélson\Lógica\CalcularCNPJ\bin\Debug\netcoreapp2.0\CalcularCNPJ.pdb
+C:\Users\Edélson\Lógica\CalcularCNPJ\obj\Debug\netcoreapp2.0\CalcularCNPJ.dll
+C:\Users\Edélson\Lógica\CalcularCNPJ\obj\Debug\netcoreapp2.0\CalcularCNPJ.pdb
